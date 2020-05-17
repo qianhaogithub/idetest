@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.hundsun.crm.base.pub">
+    <CLASSES>
+      <root url="jar://F:/CRM2.0/Sources/ModularCI/PubBaseModules/com.hundsun.crm.base/com.hundsun.crm.base.pub/target/com.hundsun.crm.base.pub.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

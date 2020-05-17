@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://F:/CRM2.0/Sources/ModularCI/PubBaseModules/com.hundsun.crm.lib" charset="UTF-8" />
+    <file url="file://F:/CRM2.0/Sources/ModularCI/PubBaseModules/com.hundsun.crm.version" charset="UTF-8" />
+    <file url="file://F:/CRM2.0/Sources/ModularCI/PubCMCI/com.hundsun.runtime" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+user:
+    lastname: hello
+    age: 18
+    boss: false
+    birth: 2019/05/01
+    maps: {qq: 10000, mobile: 13909098888}
+    lists:
+      - lisi
+      - zhaolu
+    dog:
+      name: lll
+      age: 9
+address: shanghai

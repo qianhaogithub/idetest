@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="static/js/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <span>{{message}}</span>
+    <span>{{true?"true":"false"}}</span>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+    var app_vue = new Vue({
+        el: "#app",
+        data: {
+            message: "Hello Vue.js!!!"
+        }
+    });
+</script>
